@@ -10,3 +10,7 @@ There are some useful insights using Power BI:
 - Peak ordering time: To understand when most orders are placed.
 - Understanding the relationship between average delivery time and sub total over months.
 - Understanding the relationship between total customers and discount time over months.
+
+![image](https://github.com/Amaal-Abdlhaleem/Call-Center-Delivery-Orders-Dashboard/assets/65326291/9ac428df-e87a-41de-b8ec-db09a9604048)
+
+![image](https://github.com/Amaal-Abdlhaleem/Call-Center-Delivery-Orders-Dashboard/assets/65326291/d3c9964c-c6e0-49f9-8c51-2f9d62de3055)
